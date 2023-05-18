@@ -1,2 +1,3 @@
-# starter_template
-Web Starter Template
+# Web Starter Template
+
+For writing HTML, JS and CSS
